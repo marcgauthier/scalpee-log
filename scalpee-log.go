@@ -1,4 +1,4 @@
-package scalpee-log
+package scalpeelog
 
 import (
 	"encoding/json"
